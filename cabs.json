@@ -1,0 +1,50 @@
+[
+  {
+    "driver_name": "Vikram Rathore",
+    "seats": 3,
+    "destination": "Jaipur",
+    "time_slot": "Morning",
+    "has_left": false,
+    "students": []
+  },
+  {
+    "driver_name": "Harpreet Singh",
+    "seats": 4,
+    "destination": "Delhi",
+    "time_slot": "Afternoon",
+    "has_left": false,
+    "students": []
+  },
+  {
+    "driver_name": "Deepak Sharma",
+    "seats": 2,
+    "destination": "Jaipur",
+    "time_slot": "Evening",
+    "has_left": false,
+    "students": []
+  },
+  {
+    "driver_name": "Kavita Choudhary",
+    "seats": 4,
+    "destination": "Delhi",
+    "time_slot": "Morning",
+    "has_left": false,
+    "students": []
+  },
+  {
+    "driver_name": "Ramesh Yadav",
+    "seats": 3,
+    "destination": "Delhi",
+    "time_slot": "Night",
+    "has_left": false,
+    "students": []
+  },
+  {
+    "driver_name": "Suresh Meena",
+    "seats": 2,
+    "destination": "Jaipur",
+    "time_slot": "Night",
+    "has_left": true,
+    "students": []
+  }
+]
